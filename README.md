@@ -8,7 +8,10 @@ Authors: Rangasri Chakravarthy & Priyanka Dutta
 On this homework, we worked together for 12 hours,
 
 Rangasri worked independently for 2 hours,
+
 Priyanka worked independently for 2 hours.
+
+
 --------------------------------------------------------------------
 This project was implemented in c++. (same as HW1)
 
@@ -40,5 +43,3 @@ References:
 
 •  Our Arith code from HW1
 
-
-# While
